@@ -19,6 +19,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    //float saisie;
     float saisiea;
     float saisieb;
     float saisiec;
